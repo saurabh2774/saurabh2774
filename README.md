@@ -30,18 +30,29 @@
 
 ## 🚀 Featured Projects  
 
-### 🧮 [3D Transformation System (C++)](https://github.com/saurabhchikate/3D-Transformation-System)  
-A C++ application that performs **3D geometric transformations** like translation, rotation, and scaling using matrix operations.  
+### 🔐 [Authentication Log Monitoring and Intrusion Detection System](https://github.com/saurabh2774/Authentication-Log-Monitoring-and-Intrusion-Detection-System)  
+A **security-focused system** that analyzes authentication logs to **detect suspicious login behavior** and potential intrusion attempts.  
+🔹 Log parsing & filtering  
+🔹 Failed login analysis  
+🔹 Alert generation for suspicious activity  
 
-### 🧠 [Loan Document Verification System](https://github.com/Shubham0D4/Loan-Document-Processor.git)  
-An AI-powered document verification platform using **Streamlit**, **Gemini AI**, and **OCR** for smart credit analysis.  
+**Tech Used:** Linux Logs, Bash, Python, Security Concepts  
 
-### 💼 [Job Portal](https://jobportal-iota-one.vercel.app/)  
-A full-stack **MERN** application for job seekers and employers.  
-Includes **authentication**, **real-time updates**, and a responsive UI.  
+---
 
-### 🛒 [GreenCart](https://greencart-7rvq.vercel.app/)  
-A sleek, modern grocery shopping app promoting **sustainability** and a **clean UX**.  
+### 🏭 [Industrial Device Monitoring and Simulation System](https://github.com/saurabh2774/industrial-device-monitoring-and-simulation-system-)  
+A monitoring and simulation platform designed to **track industrial device behavior** and visualize system status in real time.  
+🔹 Device state simulation  
+🔹 Performance & fault monitoring  
+🔹 System behavior visualization  
+
+**Tech Used:** JavaScript, Node.js, Simulation Logic, System Design  
+
+---
+
+### 💻 [More Projects & Repositories](https://github.com/saurabh2774?tab=repositories)  
+Explore additional **academic, security, and full-stack projects** showcasing hands-on experience with:  
+**C++**, **JavaScript**, **Node.js**, **Express**, **MongoDB**, and **system-level programming**.
 
 ---
 
